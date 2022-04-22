@@ -32,6 +32,10 @@ p {
   text-align: center;
 }
 
+.project-description {
+  padding: 120px 60px;
+}
+
 .heading {
   margin-top: 56px;
   margin-bottom: 30px;
