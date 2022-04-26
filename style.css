@@ -103,7 +103,8 @@ p {
 }
 
 .about-images {
-  height: 600px;
+  height: 500px;
+  width: 416px;
 }
 
 @media (min-width: 372px) {
